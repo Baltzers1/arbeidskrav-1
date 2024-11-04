@@ -19,7 +19,7 @@ Oppgaven lyder som følger:
 
 Kort oppsummering av arbeidsmetode:
 Jeg startet med å sette opp identifisere hva som hva koden skal gjøre å hva den skulle sa som output.
-I oppgaveteksen så er det sånn at det er en gitt verdi på km/år, men jeg synes det var rart å ha det program med en sa verdi for noe som enkelt kunne vært en input som koden spør etter. Derfor valgte jeg at km/året skal være en input. . Python har en fin while funksjon som man kan bruke til akkurat denne oppgaven slik at jeg 'slipper' å skrive if funksjoner. Det får bli neste arbeidskrav.
+I oppgaveteksen så er det sånn at det er en gitt verdi for km/år i koden, men jeg synes det var rart å ha det program med en satt verdi når det enkelt kan være en input som koden spør etter. Så jeg har valgte jeg at km/året skal være en input. Python har en fin while funksjon som man kan bruke til akkurat denne oppgaven slik at jeg 'slipper' å skrive if funksjoner. Det får bli neste arbeidskrav.
 
-Jeg valgte også å definere input som en int, kun for å gjøre det litt vanskeligere enn jeg trenger egentlig. 
+Jeg valgte også å definere input som en int, slik at while funksjonen kun godtar rundetall. Mens jeg valgt å konvertere de til en float verdi ut, kan jo være at desimale som gjør differansen i de forskjellige summen. 
 
