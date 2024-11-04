@@ -31,14 +31,14 @@ while True:                                                                     
         drivstoffkost_co2   = km_kjort * drivstoff_co2 
         bomkost_co2         = km_kjort * bom_co2  
         total_co2           = fors_el + avgift + drivstoffkost_el + bomkost_co2
-        1
+        
         # Kostnadsdifferanse
         kostdiff = total_co2 - total_el
 
         # Presentasjon av resultatene
-        print("Årlige kostnader for elbil:", round(total_el), "kr")                  # Brukt funksjonen round() til null desimaler siden input er satt til int, hele tall
-        print("Årlige kostnader for bensinbil:", round(total_co2), "kr")             
-        print("Årlig kostnadsdifferanse:", round(kostdiff), "kr")
+        print("Årlige kostnader for elbil:", float(total_el), "kr")                  # Brukt funksjonen float() til å gi desimaler siden input er satt til int, hele tall
+        print("Årlige kostnader for bensinbil:", float(total_co2), "kr")             
+        print("Årlig kostnadsdifferanse:", float(kostdiff), "kr")
         break  
 
     except ValueError: 
