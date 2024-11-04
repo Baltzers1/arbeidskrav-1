@@ -1,4 +1,4 @@
-# arbeidskrav_1  v.1
+# arbeidskrav_1  v1.4
 # author Magnus Baltzersen PY1010-1 24H
 # written in VS code
 
