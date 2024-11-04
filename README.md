@@ -23,3 +23,5 @@ I oppgaveteksen så er det sånn at det er en gitt verdi for km/år i koden, men
 
 Jeg valgte også å definere input som en int, slik at while funksjonen kun godtar rundetall. Mens jeg valgt å konvertere de til en float verdi ut, kan jo være at desimale som gjør differansen i de forskjellige summen. 
 
+Kan legge til at jeg har noe erfaring fra C++ som gjør at jeg har en trang til å linje opp kommentarene på høyere side. 
+
